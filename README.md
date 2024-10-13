@@ -1,5 +1,4 @@
 # nvim
-
                                                                                                                                      
                                                                                                                                      
 NNNNNNNN        NNNNNNNNEEEEEEEEEEEEEEEEEEEEEE     OOOOOOOOO     VVVVVVVV           VVVVVVVVIIIIIIIIIIMMMMMMMM               MMMMMMMM
@@ -23,7 +22,8 @@ NNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE     OOOOOOOOO                 VVV
                                                                                                                                      
                                                                                                                                      
                                                                                                                                      
-                                                                                                                                    
-                                                                                                                                    
-                                                                                                                                    
+                                                                                                                                     
+                                                                                                                                     
+                                                                                                                                      
+                                                                                                                                      
 Neovim with nvchad setup
