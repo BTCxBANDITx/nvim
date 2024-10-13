@@ -26,4 +26,4 @@ NNNNNNNN         NNNNNNNEEEEEEEEEEEEEEEEEEEEEE     OOOOOOOOO                 VVV
                                                                                                                                      
                                                                                                                                       
                                                                                                                                       
-Neovim with nvchad setup
+Neovim with nvchad setup 
